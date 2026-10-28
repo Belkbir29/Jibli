@@ -1,0 +1,6 @@
+{
+  "name": "JIBLI جبلي | توصيل الطعام في الجزائر",
+  "description": "منصة وتطبيق التوصيل الرائدة في الجزائر: طلب وجبات وأطباق تقليدية وعصرية، تتبع مباشر للطلبات مع الخريطة، لوحة تحكم للكباتن والمطاعم، وبرنامج ولاء ومكافآت.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
